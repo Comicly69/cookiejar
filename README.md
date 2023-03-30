@@ -20,7 +20,7 @@ This program allows you to search for all of your cookies and store them in a fi
 
 To find and store your cookies, run the following command with duo installed:
 
-: 'duo cookiejar'
+' duo cookiejar '
 
 By running this, cookiejar will attempt to create a file named cookies.txt where all of the found
 cookies will be stored. You can open this file in any text editor to view your cookies.
