@@ -1,6 +1,6 @@
 # Cookiejar
 
-This program allows you to search for all of your cookies and store them in a file for you to read later. It also gives you the option to delete cookies via the program. The program is written in JavaScript and Python.
+This program allows you to search for all of your cookies and store them in a file for you to read later. It also gives you the option to delete cookies via the program. The program is written in JavaScript, Bash and python
 
 ## Prerequisites
 
